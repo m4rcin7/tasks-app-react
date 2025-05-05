@@ -9,7 +9,7 @@ Description Task App is a responsive web application built using React.js and Ta
 - Delete Task: Remove tasks that are no longer needed.
 - Responsive Design: The application is designed to work seamlessly across various         devices and screen sizes, ensuring a consistent user experience.
 
-# Demo: [link here](https://markopersonally.github.io/tasks-app-react/)
+# Demo: [link here](https://m4rcin7.github.io/tasks-app-react/)
 
 
 
@@ -33,7 +33,7 @@ Description Task App is a responsive web application built using React.js and Ta
 Install my-project with npm
 
 ```bash
-  git clone https://github.com/markopersonally/tasks-app-react.git
+  git clone https://github.com/m4rcin7/tasks-app-react.git
   npm install
   npm start
 ```
